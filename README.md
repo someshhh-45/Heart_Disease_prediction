@@ -2,7 +2,12 @@
 
 This is an AI-powered web application built with Streamlit that predicts a patient's risk of heart disease. It uses Random Forest and Logistic Regression models to provide a comprehensive cardiac risk assessment based on 13 medical parameters.
 
-## 🚀 Features
+## 🚀 Live Demo
+
+You can access the live application here:
+[https://someshhh-45-heart-disease-predict-heartdiseaseprediction-iwuoh9.streamlit.app/](https://someshhh-45-heart-disease-predict-heartdiseaseprediction-iwuoh9.streamlit.app/)
+
+## ✨ Features
 
 -   **Dual AI Models**: Compares predictions from Random Forest and Logistic Regression.
 -   **Real-time Risk Assessment**: Instantly get a risk score and probability.
